@@ -23,7 +23,7 @@ The MIT License (MIT)를 사용하고 있습니다.
 ## 3. 주요기능:
 ...
 
-- 첫 번째 기능
+-  Last.fm Scrobbler 기능
   
   ...
 
